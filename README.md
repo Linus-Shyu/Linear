@@ -1,5 +1,5 @@
 # AT-Tool
-## ![new version is Linear](https://github.com/Linus-Shyu/Linear)
+## New version is Linear !(https://github.com/Linus-Shyu/Linear)
 ## Introduction
 
 AT-Tool is a fast tool about atcoder.com.you can use this tool quickly and easily to finish your contest.
