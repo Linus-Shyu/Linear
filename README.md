@@ -54,6 +54,6 @@ MIT License(Linus Shyu 2024)
 
 ## support
 
-![wechast](./support.JPG)
+![wechast](https://linus-shyu.github.io/img/wechat.jpg)
 
 Love you guys! Thank you so much to support this project!
