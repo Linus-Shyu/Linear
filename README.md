@@ -18,13 +18,13 @@ Then set the environment variables
 
 ```shell
 open ~/.zshrc
-alias tool = '/Users/LinusShyu/Linear'
+alias linear = '/Users/LinusShyu/Linear'
 ```
 
 Lastely Enjoy!🎉
 
 ```shell
-tool
+linear
 ```
 
 ## Instructions
