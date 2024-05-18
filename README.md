@@ -17,7 +17,8 @@ for example:
 Then set the environment variables
 
 ```shell
-alias tool = './tool'
+open ~/.zshrc
+alias tool = '/Users/LinusShyu/Linear'
 ```
 
 Lastely Enjoy!🎉
