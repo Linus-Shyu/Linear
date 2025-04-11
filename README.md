@@ -1,66 +1,105 @@
-# Linear
+# 🚀 Linear - Your Ultimate Coding Contest Companion
 
-## Introduction
+![Coding Contest](https://img.shields.io/badge/Platform-CLI-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.6+-yellow?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Linear is a fast tool about atcoder.com.you can use this tool quickly and easily to finish your contest.
+> **"Efficiency is doing better what is already being done."** - Peter Drucker  
+> Linear helps you do competitive programming better by automating the mundane!
 
-## Display
+## 🌟 Introduction
+
+Linear is your **Python-powered Swiss Army knife** for coding contests! Designed with ❤️ for competitive programmers, it streamlines your workflow by providing quick access to AtCoder/Codeforces resources, generating code templates, and visualizing rating progress - all from your terminal!
+
+```bash
+ /$$       /$$
+| $$      |__/
+| $$       /$$ /$$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$
+| $$      | $$| $$__  $$ /$$__  $$ |____  $$ /$$__  $$
+| $$      | $$| $$  | $$| $$_____/ /$$__  $$| $$
+| $$$$$$$$| $$| $$  | $$|  $$$$$$$|  $$$$$$$| $$
+|________/|__/|__/  |__/ \_______/ \_______/|__/
+```
+
+## 🎯 Features
+
+### 🏁 Contest Navigation
+
+- ⚡ **Lightning-fast access** to AtCoder resources:
+  - 🏠 Home page | 🏆 Contests | 📊 Rankings
+  - 👤 User profiles | 🎮 Specific contests
+  - 📝 Tasks | 📤 Submissions | 🏅 Standings
+
+### 💻 Code Generation
+
+```cpp
+// Automatically generated template
+#include <bits/stdc++.h>
+using namespace std;
+// Your competitive edge starts here...
+```
+
+### 📈 Rating Visualization
 
 ![UI](https://github.com/user-attachments/assets/2ac5d7e3-8983-4843-b90d-9fe19bdc117d)
 
-## Install
+### ⏱️ Plus More
 
-Download the binary file and place it in the username directory.
+- 🕒 Current time display
+- ❓ Helpful documentation
+- 💖 About section with support info
 
-for example:
+## 🛠️ Installation
 
-```shell
-/Users/LinusShyu
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/Linus-Shyu/Linear.git && cd Linear
+   ```
+
+2. **Run the tool**:
+
+   ```bash
+   python Linear_0.0.4.py
+   ```
+
+## 🎮 Usage Examples
+
+| Command  | Action                 | Example           |
+| -------- | ---------------------- | ----------------- |
+| `play`   | Open specific contest  | `abc123`          |
+| `task`   | View problem statement | `abc123 A`        |
+| `code`   | Generate C++ templates | `username abc123` |
+| `rating` | Show CF rating graph   | `tourist`         |
+| `time`   | Display current time   |                   |
+
+```bash
+# Try it yourself!
+$ python Linear_0.0.4.py
+Linear> rating tourist
+Fetching Codeforces data...
+Displaying rating graph...
 ```
 
-Then set the environment variables
+## 🤝 Contributing
 
-```shell
-open ~/.zshrc
-alias linear = '/Users/LinusShyu/Linear'
-```
+We welcome contributions! Here's how you can help:
 
-Lastely Enjoy!🎉
+1. 🐛 Report bugs via [GitHub Issues](https://github.com/Linus-Shyu/Linear/issues)
+2. 💡 Suggest new features
+3. 🛠️ Submit pull requests
 
-```shell
-linear
-```
+## 📜 License
 
-## Instructions
+MIT © [Linus Shyu](https://github.com/Linus-Shyu)  
+_"Sharing knowledge is the most fundamental act of friendship."_
 
-```txt
-home       - Open AtCoder home page
-contest    - Open contests page
-rank       - Open global rankings
-userdata   - View user profile
-play       - Open specific contest
-task       - Open specific problem (a-g)
-submit     - Open submission page
-stand      - Open contest standings
-code       - Create C++ template files for contest
-clear      - Clear terminal screen
-time       - Show current time
-rating     - Show Codeforces rating graph
-about      - Show about information
-exit       - Exit the program
-help       - Show this help message
-```
+## 💌 Connect
 
-## Implementation
+Let's build the competitive programming community together!
 
-You can read Implementation.md
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Linus-Shyu/Linear)
+[![Bilibili](https://img.shields.io/badge/B站-411591950-red?style=flat)](https://space.bilibili.com/411591950)
+[![YouTube](https://img.shields.io/badge/YouTube-@LinusShyu-red?style=flat&logo=youtube)](https://www.youtube.com/@LinusShyu)
 
-## License
-
-MIT License(Linus Shyu 2024)
-
-## support
-
-![wechast](https://linus-shyu.github.io/img/wechat.jpg)
-
-Love you guys! Thank you so much to support this project!
+💖 **Support the project** via WeChat Pay (QR code available in the `about` command)
