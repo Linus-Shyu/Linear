@@ -98,8 +98,8 @@ _"Sharing knowledge is the most fundamental act of friendship."_
 
 Let's build the competitive programming community together!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/Linus-Shyu/Linear)
-[![Bilibili](https://img.shields.io/badge/B站-411591950-red?style=flat)](https://space.bilibili.com/411591950)
+[![GitHub](https://img.shields.io/badge/GitHub-Linear-blue?style=flat&logo=github)](https://github.com/Linus-Shyu/Linear)
+[![Bilibili](https://img.shields.io/badge/BiliBili-LinusShyu-red?style=flat)](https://space.bilibili.com/411591950)
 [![YouTube](https://img.shields.io/badge/YouTube-@LinusShyu-red?style=flat&logo=youtube)](https://www.youtube.com/@LinusShyu)
 
 💖 **Support the project** via WeChat Pay (QR code available in the `about` command)
